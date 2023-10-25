@@ -832,7 +832,7 @@
 
 <body>
 
-    <h1>My FOOTER </h1>
+    <h1>My Footer </h1>
 
 </body>
 

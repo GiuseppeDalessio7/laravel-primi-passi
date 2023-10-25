@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
 
-    <!-- Styles -->
+
     <style>
         /* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */
         *,
@@ -830,9 +830,11 @@
     </style>
 </head>
 
+
+
 <body>
 
-    <h1>My HEADER </h1>
+    <h1>My header</h1>
 
 </body>
 
